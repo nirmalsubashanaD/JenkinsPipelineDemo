@@ -1,0 +1,11 @@
+{
+  "name": "jenkinspipelinedemo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
